@@ -1,5 +1,4 @@
 #include <iostream>
-#include <fstream>
 #include "matrixFunctions.h"
 
 //the function returns the max value by comparing to int numbers

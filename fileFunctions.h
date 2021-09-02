@@ -1,5 +1,7 @@
 #pragma once
 
+#include <fstream>
+
 std::fstream dataFile("data.txt"); //creating the file where the data will be stored
 
 //the function deletes all content in a file
